@@ -696,3 +696,8 @@ administrator/
 /admin/pages/home_admin.php
 /adminpanel/
 /adminpanel
+/wp-login.php
+/wp-admin.php
+/config/adminer.php
+/adminer.php
+/admin.php

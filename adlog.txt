@@ -701,3 +701,4 @@ administrator/
 /config/adminer.php
 /adminer.php
 /admin.php
+/adminweb

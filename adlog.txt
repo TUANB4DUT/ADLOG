@@ -702,3 +702,7 @@ administrator/
 /adminer.php
 /admin.php
 /adminweb
+/admincp
+/adminwebx
+/adminerlogin
+/login.asp

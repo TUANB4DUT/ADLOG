@@ -1,4 +1,14 @@
 admin/
+index.php/login
+index.php/login.php
+index.php/admin
+index.php/admin.php
+index.php/admin/login.php
+cms/
+web_admin/
+4dmin/
+4Dm1N/
+
 administrator/
 admin1/
 admin2/
